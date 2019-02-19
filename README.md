@@ -11,9 +11,9 @@
 
 [第二章 Python脚本调试和性能测试](https://alanhou.org/debugging-profiling-python-scripts/)：讲解如何使用调试工具来对Python程序进行调试。你还将学习如何进行错误处理，并深入性能测试（profiling）和耗时测试（timing）的概念。
 
-[第三章 单元测试-单元测试框架的介绍[(https://alanhou.org/unit-testing-introduction-unit-testing-framework/)：本章有关 Python 中的单元测试。我们将对测试程序创建单元测试。
+[第三章 单元测试-单元测试框架的介绍](https://alanhou.org/unit-testing-introduction-unit-testing-framework/)：本章有关 Python 中的单元测试。我们将对测试程序创建单元测试。
 
-第四章 自动化常规运维活动：讲解如何自动化运维管理员的常规运维活动。你将学习到接收输入、处理密码、外部命令的执行、读取配置文件、为脚本添加警告信息、实现 CPU 限制、网页浏览器启动、os模块的使用以及进行备份。
+[第四章 自动化常规运维活动](https://alanhou.org/automating-regular-administrative-activities/)：讲解如何自动化运维管理员的常规运维活动。你将学习到接收输入、处理密码、外部命令的执行、读取配置文件、为脚本添加警告信息、实现 CPU 限制、网页浏览器启动、os模块的使用以及进行备份。
 
 第五章 文件、目录和数据处理：本章你将学习使用os模块来处理各种活动。读者会学习到数据以及应用到数据上的一些方法，如复制、剪切、合并和比较。还将学习tarfile模块及如何及用这一模块。
 
