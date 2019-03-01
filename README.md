@@ -19,11 +19,11 @@
 
 [第六章 文件存档、加密和解密](https://alanhou.org/file-archiving-encrypting-decrypting/)：研究文件存档、创建存档以及TAR和ZIP包的创建。还会学到如何使用应用解压缩.tar和.zip文件。
 
-第七章 文本处理和正则表达式：查看Python中的文本处理和正则表达式。Python中有一个很强大的称为正则表达式的库，可进行搜索和提取数据等操作。本章还将学习对文件使用正则表达式，以及如何读取和写入文件。
+[第七章 文本处理和正则表达式](https://alanhou.org/text-processing-regular-expressions/)：查看Python中的文本处理和正则表达式。Python中有一个很强大的称为正则表达式的库，可进行搜索和提取数据等操作。本章还将学习对文件使用正则表达式，以及如何读取和写入文件。
 
-第八章 文档和报告：讲解如何使用Python生成文档和报告信息。将学习如何使用Python脚本来接收输入，并在输出中打印。使用 Python我们可以编写自动化信息收集的脚本。在Python中编写接收邮件的脚本也更为简单。我们还将学习如何格式化信息。
+[第八章 文档和报告](https://alanhou.org/documentation-reporting/)：讲解如何使用Python生成文档和报告信息。将学习如何使用Python脚本来接收输入，并在输出中打印。使用 Python我们可以编写自动化信息收集的脚本。在Python中编写接收邮件的脚本也更为简单。我们还将学习如何格式化信息。
 
-第九章 操作如类文件：本章将深入各类文件的处理，比如PDF文件、Excel和CSV文件。我们将学习使用Python来打开、编辑文件并从这些文件中读取信息。
+[第九章 操作如类文件](https://alanhou.org/working-files/)：本章将深入各类文件的处理，比如PDF文件、Excel和CSV文件。我们将学习使用Python来打开、编辑文件并从这些文件中读取信息。
 
 第十章 网络基础 - Socket编程：本章将首先介绍网络基础，然后我们会学习TCP、UDP等socket。我们还将学习如何使用socket编程来通过HTTP和FTP等协议通讯和获取信息。
 
