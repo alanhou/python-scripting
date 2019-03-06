@@ -25,21 +25,21 @@
 
 [第九章 操作如类文件](https://alanhou.org/working-files/)：本章将深入各类文件的处理，比如PDF文件、Excel和CSV文件。我们将学习使用Python来打开、编辑文件并从这些文件中读取信息。
 
-第十章 网络基础 - Socket编程：本章将首先介绍网络基础，然后我们会学习TCP、UDP等socket。我们还将学习如何使用socket编程来通过HTTP和FTP等协议通讯和获取信息。
+[第十章 网络基础 - Socket编程](https://alanhou.org/basic-networking-socket-programming)：本章将首先介绍网络基础，然后我们会学习TCP、UDP等socket。我们还将学习如何使用socket编程来通过HTTP和FTP等协议通讯和获取信息。
 
-第十一章 使用Python脚本处理邮件：深入如何使用Python脚本来编写和发送邮件。发软件编程中发送邮件是一项非常常见的任务。我们可以使用Python的smtplib模块来在Python程序中发送邮件。本章中我们还会学习到在不服务器上发送邮件所使用的不同协议。
+[第十一章 使用Python脚本处理邮件](https://alanhou.org/handling-emails-python-scripting/)：深入如何使用Python脚本来编写和发送邮件。发软件编程中发送邮件是一项非常常见的任务。我们可以使用Python的smtplib模块来在Python程序中发送邮件。本章中我们还会学习到在不服务器上发送邮件所使用的不同协议。
 
-第十二章 使用Telnet和SSH远程监控主机：指导大家如何通过SSH协议来执行服务器上的基本配置。我们将先通过使用Telnet模块，然后使用更推荐的方法SSH来实现相同的配置。
+[第十二章 使用Telnet和SSH远程监控主机](https://alanhou.org/remote-monitoring-hosts-telnet-ssh/)：指导大家如何通过SSH协议来执行服务器上的基本配置。我们将先通过使用Telnet模块，然后使用更推荐的方法SSH来实现相同的配置。
 
-第十三章 创建图形化用户界面：讲解使用PyQt模块来创建图形化用户界面。
+[第十三章 创建图形化用户界面](https://alanhou.org/building-graphical-user-interfaces/)：讲解使用PyQt模块来创建图形化用户界面。
 
-第十四章 处理Apache和其它的日志文件：讲解如何处理Apache日志文件。我们还将学习日志解析应用，即识别日志消息中的不同类型。本章还将学到如何解析这些文件以及如处理多文件、监测各类异常、存储数据和生成报告。
+[第十四章 处理Apache和其它的日志文件](https://alanhou.org/working-apache-log-files/)：讲解如何处理Apache日志文件。我们还将学习日志解析应用，即识别日志消息中的不同类型。本章还将学到如何解析这些文件以及如处理多文件、监测各类异常、存储数据和生成报告。
 
-第十五章 SOAP和REST API通讯：着重SOAP和REST的基础，以及它们之间的区别。我们还将学习SOAP API以及如何使用不同的库来使用它。本章中还可学习到REST API及标准库。
+[第十五章 SOAP和REST API通讯](https://alanhou.org/soap-rest-api-communication/)：着重SOAP和REST的基础，以及它们之间的区别。我们还将学习SOAP API以及如何使用不同的库来使用它。本章中还可学习到REST API及标准库。
 
-第十六章 网络抓取 - 从网站上提取有用的信息：本章中讲解如何使用Python 库来从网站上提取数据。我们还将学习如何使用Python来搜索文章和源代码。
+[第十六章 网络抓取 - 从网站上提取有用的信息](https://alanhou.org/web-scraping-extracting-data-websites)：本章中讲解如何使用Python 库来从网站上提取数据。我们还将学习如何使用Python来搜索文章和源代码。
 
-第十七章 数据收集及报表：本章是有关科学计算中使用的高级Python库的。这些库有NumPy, SciPy和Matplotlib。我们还将学习数据可视化的概念以及如何对数据制图。
+[第十七章 数据收集及报表](https://alanhou.org/statistics-gathering-reporting/)：本章是有关科学计算中使用的高级Python库的。这些库有NumPy, SciPy和Matplotlib。我们还将学习数据可视化的概念以及如何对数据制图。
 
-第十八章 MySQL和SQLite数据库管理：本章中我们一起来看使用MySQL和SQLite的数据库管理。我们将学习这类管理的要求和设计、如何修改插件框架以及如何编写producer和consumer代码。
+[第十八章 MySQL和SQLite数据库管理](https://alanhou.org/mysql-sqlite-database-administrations)：本章中我们一起来看使用MySQL和SQLite的数据库管理。我们将学习这类管理的要求和设计、如何修改插件框架以及如何编写producer和consumer代码。
 
